@@ -1,7 +1,7 @@
 # TouchMeNot
 /*
- * TouchMeNot_v2.0 is a solenoid actuator coupled to a piezo vibration sensor 
- * which signals a tap event with an LED blink.
+ * TouchMeNot_v2.0 is a robotic arm coupled to a piezo vibration sensor 
+ * which signals every tap event with an LED blink.
  * 
  * This solenoid taps for 'rep' times with an inter stimulus interval of 'isi' milliseconds. 
  * The piezo sensor reports every tap with an LED blink. 
