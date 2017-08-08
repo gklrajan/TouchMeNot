@@ -3,9 +3,9 @@
  * TouchMeNot is a robotic arm coupled to a piezo vibration sensor 
  * which signals every tap event with an LED blink.
  
- *v2.0 uses a solenoid to tie the tap whereas v3.0 is actually a downgraded version which you can
- *without a vibration sensor by manually entering a delay (dafualt is 1ms). v3.0 is recommended for
- *consistent stimulus timing beween trials if you if you don't have a good reliable vibration sensor.
+ * v2.0 uses a solenoid to tie the tap whereas v3.0 is actually a downgraded version which you can
+ * without a vibration sensor by manually entering a delay (dafualt is 1ms). v3.0 is recommended for
+ * consistent stimulus timing beween trials if you if you don't have a good reliable vibration sensor.
  * 
  * This solenoid taps for 'rep' times with an inter stimulus interval of 'isi' milliseconds. 
  * The piezo sensor reports every tap with an LED blink. 
