@@ -1,5 +1,5 @@
 # TouchMeNot
-/*
+
  * TouchMeNot is a robotic arm coupled to a piezo vibration sensor 
  * which signals every tap event with an LED blink.
  
@@ -35,4 +35,3 @@
  * More info: Gokul Rajan (gklrajan@gmaildotcom), DEL-BENE Lab, Paris; 22-07-2017
  * updated on 31_07_2017
  * Last updated on 05_07_2017
-*/
