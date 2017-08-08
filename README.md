@@ -11,7 +11,7 @@
  * The piezo sensor reports every tap with an LED blink. 
  * These three parameters can be changed from the highlighted 'SET PARAMETERS HERE' box.
  * 
- * WWIRING THE CIRCUIT:
+ * WIRING THE CIRCUIT:
  * POWER externally as your solenoid most likely requires more power than 
  * what the arduino can supply (I use 9V+9V batterires in series for a 12V solenoid).
  * 
